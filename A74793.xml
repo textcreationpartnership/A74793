@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ieremiah revived: though in his prison; or his Lamentations parallel'd.</title>
+            <author>N. P.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74793</idno>
+            <idno type="STC">Thomason E435_1</idno>
+            <idno type="STC">ESTC P1343</idno>
+            <idno type="EEBO-CITATION">50811953</idno>
+            <idno type="OCLC">ocm 50811953</idno>
+            <idno type="VID">161573</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A74793)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161573)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 68:E435[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ieremiah revived: though in his prison; or his Lamentations parallel'd.</title>
+                  <author>N. P.</author>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for N.P. the author,</publisher>
+                  <pubPlace>[S.l.] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Annotation on Thomason copy: "Aprill 6th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Captivity, 1647-1649.</term>
+               <term>Bible. --  O.T. --  Jeremiah --  Extra-canonical parallels --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161573:1" rendition="simple:additions"/>
+            <p>Week 1</p>
+            <p> IEREMIAH REVIVED: Though in his PRISON; or his Lamentations paralell'd.</p>
+            <p>
+               <hi>Aprils</hi> milde Showres after <hi>Marches</hi> rough ſtorms, or Great <hi>Britans</hi> voyce of Weeping after Great <hi>Britans</hi> Vote of Loyalty.</p>
+            <p>Being a mournfull repreſentation of the KING and His KINGDOMES wretched condition.</p>
+            <p>Seaſonably dewing down in foure ſeverall Showres this ſpringing Moneth of <hi>Aprill,</hi> each Weeke one.</p>
+            <p>This is the firſt Showre.</p>
+            <p>
+               <add>Aprill 6<hi rend="sup">th</hi>
+               </add> Printed for <hi>N. P.</hi> the Author. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161573:2"/>
+            <pb n="1" facs="tcp:161573:2"/>
+            <head>IEREMIAH Revived, though in His Priſon.</head>
+            <p>HO, <hi>Aeolus</hi> after a diſcreet, though ſharp and nip<g ref="char:EOLhyphen"/>ing uſe of ſtorm raiſing <hi>Boreas</hi> in defence of <hi>Charle<g ref="char:EOLhyphen"/>mains,</hi> I have return'd him (not ſtanding in need of an Ordinance of <hi>Indempnity:</hi> for, though he hath ſpoken loud, yet hee hath been harmleſſe in his <hi>March</hi>) into the vaſt Conclave of his ſtrong priſon; and now for the more ſucceſſefull proſecution of my deſigne, I requeſt thee gently to latch thy ſword into the <hi>South Weſt</hi> ſide of that wind preg<g ref="char:EOLhyphen"/>nant mountaine, and thence let all fruitfull-ſhower-diſtilling <hi>Zephirus</hi> ſteale a freedom by degrees tobreath with his humid blaſts this Spring, on the Rocks of <hi>Albion</hi> and make her ſtony mountains as fertile as the low laid valleyes: or rather, Obleſſed Saviour who commandeſt the windes and they obey thee; ſend forth amongſt us the * <hi>Zephirus</hi> of thy Word &amp; promiſe that Grace-infuſing Spirit of thy Father,<note place="margin">Mat. 8.27. Iohn 3.8. Ioh. 25.26. Act. 17.25.28. 2 Sam. 21.1, 10.14.</note> the Lord of al our be<g ref="char:EOLhyphen"/>ings, and God of every bleſſing; who teſtified that hee was pacified after his fierce wrath, for the breach of a Nationall Oath or Covenant, by ſending a ſeaſonable raine: and who bringeth up the clouds from the ends of the earth, and maketh the lightnings with the raine; drawing forth the winds out of his treaſures <hi>Pſ.</hi> 135.7 that hee may blow up a ſhowre of thy precious dew of ſauing Charity, and diffuſe the rain of the Goſpell of Peace, which diſtilling on the flinty hills and Roc<g ref="char:EOLhyphen"/>key Mountaines, the marble hearts and obdurate ſoules of the Lords and Commons, and all their adherents, may make them as fruitfull of remorſe for, and compaſſion of the ſad conditi<g ref="char:EOLhyphen"/>on and diſtraction of this languiſhing yea gaſping Kingdome, as they have been prodigall of its blood and oppreſſion; and that, being mollified with pitty, and melted into commiſera<g ref="char:EOLhyphen"/>tion, three kingdomes groans may at laſt make ſuch an impreſ<g ref="char:EOLhyphen"/>ſion in their minds as may cauſe them to look ſeriouſly upon their preſent deſperat ſtate, and cordially apply themſelves to prevent in this their time their utter ruine and ſubverſion, both Pathetically preſented unto them in this mournefull
+<pb n="2" facs="tcp:161573:3"/>repreſentation of the King and Kingdomes ſad and wretched condition.</p>
+            <p n="1">1. How doth the <hi>Eden</hi> of <hi>Europe</hi> remaine ſolitary with<g ref="char:EOLhyphen"/>out her <hi>Adam?</hi> ſhee is as a widdow: ſhe that was once in high eſteeme among forraigne Countries, and the glory of the whole world for the Scepter of <hi>Judah</hi> in her, how is ſhee force'd to turne <hi>Iſſachar</hi> (though ſtrong, yet an Aſſe) and tamely couches between two burthens,<note place="margin">Gen. 29.14</note> 
+               <hi>Presbitery</hi> and <hi>Indepen<g ref="char:EOLhyphen"/>dency:</hi> though great of force, yet wanting courage to reſiſt her enemies.</p>
+            <p n="2">2. For this, 'tis true, ſhe weeps continually, and her teares murmure in the ſurrows of her cheeks, but it is by ſtealth, in the night; deſpairing of conſolation from her pretending ſa<g ref="char:EOLhyphen"/>vourers, for among ſuch her Lovers, there is none to comfort her: and ſcaring to diſcover her griefe to thoſe who former<g ref="char:EOLhyphen"/>ly declared themſelves her Patriots; for thoſe falſe friends have dealt unfaithfully with her, and having compounded with the cauſers of her woe, are become her enemies.</p>
+            <p n="3">3. Her Lyon,<note place="margin">Gen. 49 8</note> to whom her Fathers ſons ſhould bow down is forct to couch under reſtraint and heavy affliction, and ſhe her ſelfe brought into great ſlavery by an heathen ſort of peo<g ref="char:EOLhyphen"/>ple, who now dwel in her houſes: from whoſe cruell oppreſ<g ref="char:EOLhyphen"/>ſions which they lay upon her, ſhee can diſcover no hope of freedome, nor can ſhe yet find reſt in the midſt of thoſe trou<g ref="char:EOLhyphen"/>bles, diſtractions and unnaturall wars wherein they have in<g ref="char:EOLhyphen"/>volved her, her perſecutors having taken her in the ſtraits.</p>
+            <p n="4">4. The wayes to the houſes of God in her land mourn, for all her ſolemne Feaſts are deſpiz'd and voted againſt;<note place="margin">Pſa. 42.4, 5.</note> all the gates of theſe <hi>Zions</hi> into which her <hi>David</hi> led her ſonnes and daughters with the voice of ſinging and praiſe, as a multitude that keepeth a Feaſt, may now lift up their voice in weeping and howling and lamenting, for they are become deſolate; the mouths of the Oxen that uſed there to tread out her corn, are <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>led,<note place="margin">1 Cot. 9.9.13.</note> her Prieſts are permitted neither to waite at her Al<g ref="char:EOLhyphen"/>tars, not to partake with her Altars: juſt cauſe then have her Miniſters to <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>igh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> her tender ones to be diſcomſited, and ſhe her ſelfe to fit in heavyneſſe.</p>
+            <p n="5">5. Her enemies flouriſh having got the better, and thoſe who are her greateſt adverſaries <hi>Oreb</hi> and <hi>Zech</hi> (<hi>Fairfax</hi> and <hi>Grun<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>well</hi>) <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the cheife (the one Captaine, the other Li<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſ<g ref="char:EOLhyphen"/>tenant<note place="margin">Pſal. 83.</note>
+               <pb n="3" facs="tcp:161573:3"/>who with <hi>Zeba</hi> and <hi>Zalo<gap reason="illegible" extent="1 chunk">
+                     <desc>…</desc>
+                  </gap>na</hi> (the Lords and Com<g ref="char:EOLhyphen"/>mons) have caſt their heads together with one conſent, and made a League together againſt her, and now that <hi>Aſhur</hi> is alſo joyned with them, they dare boldly ſay, Let us take for our poſſeſſion the habitation of all that is called God: <hi>White-Hall, Weſtminſter,</hi> with all Cathedrall and Parochial Churches and Chappels. And this the Lord permits (ſhe confeſſeth) becauſe he intends to humble her by afflictions, and chaſtiſe her for the multitude of her tranſgreſſions, eſpecially her rebelli<g ref="char:EOLhyphen"/>ons againſt, and want of a due commanded fear of God and her King: Yea becauſe ſhe hath willingly medled, and readily had to do with the ſeditious,<note place="margin">Pro. 24 21.</note> or thoſe that were and are given to change, her children are become captives, ſlaves and vaſſels to hers and their enemies.</p>
+            <p n="6">6 So that now from this daughter of <hi>Zion</hi> (once flouriſh<g ref="char:EOLhyphen"/>ing <hi>England</hi>) all her beauty is departed<g ref="char:punc">▪</g> her <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>wfull rulers like Harts that find no paſture, are as men pined away with ſorrow, and bereft of all ſtrength and courage, all power and command, are forc'd to flee before the <hi>Nimrods</hi> of theſe dayes,<note place="margin">Gen. 10 9. 2 K 9.20.</note> who <hi>Jehu</hi> like purſue them.</p>
+            <p n="7">7. But what?<note place="margin">1 Cor. 4.8.</note> may not her <hi>Jeruſalem</hi> triumph and rejoyce<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:punc">▪</g> ſhe lives at caſe and is full: Nay even ſhe alſo may e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpect a day of affliction for her rebellion: when all the pleaſant things that ſhee enjoyed in time paſt ſhall bee taken from her, then ſhall ſhee with griefe of ſoule call to mind and remember the benefits and commodities ſhe had during here obedience, but loſt ſince ſhe hath ſo conſentingly loſt the acknowledgement of her Allegiance to her Royall Soveraign. Nay, may we not ſay her miſery is in part faln on her already? look but upon her people and power, inhabitants and Militia: did not they all in one day fal into the hand of her enemy, and none did help here her adverſaries advanced towards, looked upon and ſtraight<g ref="char:EOLhyphen"/>way overcame her, and now mock at her Sabbaths, all that ſhe held ſacred, her Aſſembly, her Claſſis and Directory.</p>
+            <p n="8">8. Yea ſhe is become the deriſion of other countries,<note place="margin">Ier. 18.61.</note> the<note n="*" place="margin">Deu. 28.37.</note> By word of neighbour Nations, and the <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ing of them from after<g ref="char:punc">▪</g>
+               <note n="*" place="margin">Ver. 19.8. Mic. 6.16.</note> al that heretofore hon<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>red her as the beſt Ordered moſt decently civiliz<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d, and pureſt reformed Catholick-Religion-profeſſing City of the world, now d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpiſe her and point at her, becauſe they have ſ<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> ſchiſmes,
+<pb n="4" facs="tcp:161573:4"/>yea, her <hi>Hydra</hi>-headed bulke of errours and blaſphemies.</p>
+            <p>O then that <hi>London</hi> would purge her ſtinking ayre with whole gales of heart-breathed ſighs, and cleanſe her ſeditious ſtreets with ſoul-wept teares, out of a ſeriouſly ſorrowful ſenſe and acknowledgement that ſhe hath grievouſly ſinned.</p>
+            <p n="9, 10, 11">9, 10, 11. But alas! Now readers, if guilty, read this if you dare without remorſe &amp; compunction, if guiltles, hear this without amazement and compaſſion, ſinful <hi>London</hi> ſighs indeed, but the n turns backward. All People ſigh and ſeek the living Bread, the pure Goſpel of <hi>Jeſus Christ,</hi> but finde it not, lyea, they part from their pleſant things for wholſom meat, ſound Doctrin to refreſh the ſoul, but are ſeduced &amp; deceived, for thy Prophets prophe<g ref="char:EOLhyphen"/>ſie lyes and thine adverſaries the Sectaries love to have it ſo: theſe have deſtroyed Gods true Religion,<note place="margin">Ier. 5.31.</note> caſt his publique Wor<g ref="char:EOLhyphen"/>ſhip and Service out of their aſſemblies, rejected his ſacred Or<g ref="char:EOLhyphen"/>dinances, reviled the foot-ſteps of his Anointed, ſtrained and laid violent hands upon his loyal Servant their royal Sove<g ref="char:EOLhyphen"/>raigne the King, deſpiſed Gods Law, deſpited his ſervants the Preachers, violated the law of Nature and Nations, beat, im<g ref="char:EOLhyphen"/>priſoned, and robd their fellow-ſubjects, who have not run giddily into the ſame exceſſe of Rebellion with themſelves, and to make all good that they either ſay or act; they have ſet up their Banners and ſpread their Enſignes in ſigne of defiance,<note place="margin">
+                  <hi>Pſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l.</hi> 74.4.</note> and as evidences to all the World, that they reſolve to juſtifie themſelves by the Sword not the Word, by <hi>Machiavel</hi> not the Goſpel, by <hi>B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>na</hi> not the Bible, and confute the Arguments of all that ſhall oppoſe their <hi>Sic volo ſic jubeo, ſtat proratione vo<g ref="char:EOLhyphen"/>luntas,</hi> with diſtreſſe not diſcourſe, with a Priſon not a Pulpit, encouraging one another to cruelty, that not onely Gods Peo<g ref="char:EOLhyphen"/>ple might be deſtroyed, but alſo his Religion utterly in all places ſuppreſſed, and their own <hi>Babel</hi> of confeſſion and Anar<g ref="char:EOLhyphen"/>chy both in Church and State inſtead thereof erected.</p>
+            <sp>
+               <speaker>Great <hi>Britain:</hi>
+               </speaker>
+               <q>See, O Lord, and conſider: for I am become vile.</q>
+            </sp>
+            <p n="12">12 What I Hath a univerſal Lethargy over-ſpread the whole Land? Hath al the People quaft their fils of the ſtupifying Waters of <hi>Leth<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> hath a blackneſſe as palpable as that of <hi>Egypt</hi> clouded their underſtandings and darkened their judgements? or hath a willingneſſe to be blinded, hood-winckt, and ſo led namely to their own deſtruction, ſeazed on all the Inhabitants
+<pb n="5" facs="tcp:161573:4"/>of <hi>England,</hi> that they are generally ſo inſenſible of their pre<g ref="char:EOLhyphen"/>ſent Woes and approaching Miſeries? Have ye no regard all<g ref="char:EOLhyphen"/>ye that paſſe by this way? O! thou who art juſtly ſtiled The Defender of the Faith, Doeſt thou not conſider how the Faith of <hi>Ieſus Christ</hi> ſo proſpeouſly, and with Gods bleſſing peofeſ<g ref="char:EOLhyphen"/>ſed in this Land, is aſſaulted, in danger, and never ſtood in more need of thy defence than now? Alas, thou doeſt, but to the griefe of thy ſoul canſt not ſuccour it other wayes than by thy patient ſuffering all manner of affronts, incivilities, in<g ref="char:EOLhyphen"/>humanities wherewith the ſcum of the Land; the dregges of our Nation, and the off-ſcouring of thy Subjects daily enter<g ref="char:EOLhyphen"/>taine thy perſon and exerciſe, thy graces and virtues; for they have rebelliouſly uſurped thy power, and vio<g ref="char:EOLhyphen"/>lently wreſted the Sword out of thy hand, leaſt thou ſhouldeſt oppoſe the one unſheath the other and make uſe of both in this ſo juſt and lawfull a Defence, which before the Throne of thy King ſhall make for their greater condemnation, but thy more glorious juſtification. Thou wouldeſt but wert not admitted, nay, by force of Armes hindered and reſtrained from per<g ref="char:EOLhyphen"/>forming this thy duty.</p>
+            <p>O ye great Clerkes and learned Docto<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs, whoſe calling it is to tell <hi>Judah</hi> of her trangreſſions and <hi>Iſrael</hi> of her ſinnes; do ye not ſee that certain men are crept into the Fold, Wolves in Sheeps cloathing, turning the grace of our God into wan<g ref="char:EOLhyphen"/>tonneſſe, ſpeaking lyes through hypocriſie,<note place="margin">Iude 4. 1 Tim. 4.2 2 Pet. 2.10.</note> walking after the fleſh in the luſts of uncleanneſſe, and dully, but yet impudent<g ref="char:EOLhyphen"/>ly deſpiſing and deſpiting Governments, and ſpeaking evil of them that are in authority? Nay, do ye not bear and ſee how the falſe Prophets and Teachers ſpoken of by the Apoſtles of old are now (if ever) among us, and have broacht damnable er<g ref="char:EOLhyphen"/>rours and hereſies,<note place="margin">2 Pet. 2 21. Iu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e 9.</note> even denying the Lord that ha<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h bought them, God the onely Lord, and the Lord <hi>Ieſus Christ:</hi> thoſe makers of Sects, mockers fore-told of<note n="*" place="margin">2 P<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. 3.3. Rom. 16.17, 18.</note> cauſers of diviſions and offences contrary to the Doctrine of <hi>Jeſus Christ</hi> which ye have learned and taught, who ſerve not the Lord <hi>Ieſus Christ,</hi> but their own bellies; thoſe deceiving deceivers who creep into houſes, and with fair ſpeeches and fawning flatter<g ref="char:EOLhyphen"/>ings beguile the hearts of the unſtable ſoules; and how that many follow their inſolent, wanton, licentious; yea, damna<g ref="char:EOLhyphen"/>ble
+<pb n="6" facs="tcp:161573:5"/>wayes, by reaſon whereof the way of truth is evill ſpoken of? And are ye ſilent, mute, and your Trumpets not heard? Though ye have knowledge, and are eſtabliſhed in the Truth, have ye yet need of a <hi>Peter</hi> to put ye in minde of theſe things, and ſtir you up by retriving in your remembrance the duty en<g ref="char:EOLhyphen"/>joyned you by Saint <hi>Paul,</hi>
+               <note place="margin">2 Tim. 4.2</note> 
+               <hi>Preach the Word; be instant in ſeaſon and out of ſeaſon; improve, rebuke, exhort, with all long-ſuffering.</hi> Alas, the laſt gift they will provide ye ſhall daily exerciſe, but at no time (by their good wils) any of the former: that head<g ref="char:EOLhyphen"/>leſſe, heartleſſe, tongueleſſe Trunck of a Parliament, a genera<g ref="char:EOLhyphen"/>tion that ſtrive with the Prieſt,<note place="margin">Hoſ. 4.2.</note> hath ordered the ſtopping of your mouthes, or ſtifling of your breaths: for the time (fore<g ref="char:EOLhyphen"/>told by the Apoſtle) being now come,<note place="margin">2 Tim. 4.3</note> they will not ſuffer wholeſome Doctrine, but having their eares itching, after their owne luſts get them an heap of Teachers. You are ſilen<g ref="char:EOLhyphen"/>ced: you can, but may not.</p>
+            <p>O then, ye that onely can, ye that call your ſelves the Pa<g ref="char:EOLhyphen"/>triots of the Law, the loyal Subjects of the King, and the re<g ref="char:EOLhyphen"/>preſentative Body of the Kingdom, expreſſe it in theſe two Acts, pity and period their ſorrowes, their ſufferings towards whom to pregnant a remorſe now at laſt in your breaſts, may theſe ſad ſhowers of Lamentation be diſtilled into your boſomes. Great <hi>Britain, Behold and ſee if ever ſorrow were like my ſorrow which is done unto me, and wherewith the Lord hath af<g ref="char:EOLhyphen"/>flicted me in the day of his fierce wrath.</hi> &amp;c. <unclear>read</unclear> 
+               <hi>Lamen.</hi> verſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. 13, &amp;c.</p>
+            <epigraph>
+               <bibl>22.</bibl>
+               <q>What I careleſſe, heedleſſe, remorſeleſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</q>
+            </epigraph>
+            <epigraph>
+               <q>
+                  <l>Cannot three Kingdomes groans make on<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> impreſſion?</l>
+                  <l>Confound them Lord, retaliate their oppreſſion.</l>
+               </q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
